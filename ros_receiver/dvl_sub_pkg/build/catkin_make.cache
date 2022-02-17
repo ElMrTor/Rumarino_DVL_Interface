@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/estol/Documents/RUMarino/dvl_interface_server/ros_receiver/dvl_sub_pkg/devel -DCMAKE_INSTALL_PREFIX=/home/estol/Documents/RUMarino/dvl_interface_server/ros_receiver/dvl_sub_pkg/install -G Unix Makefiles
