@@ -1,0 +1,2796 @@
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+__new__ ------- <built-in method __new__ of type object at 0x7fa56cb1f260> as --> <class 'builtin_function_or_method'>
+__repr__ ------- <slot wrapper '__repr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__hash__ ------- <slot wrapper '__hash__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__str__ ------- <slot wrapper '__str__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__getattribute__ ------- <slot wrapper '__getattribute__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__setattr__ ------- <slot wrapper '__setattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__delattr__ ------- <slot wrapper '__delattr__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__lt__ ------- <slot wrapper '__lt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__le__ ------- <slot wrapper '__le__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__eq__ ------- <slot wrapper '__eq__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ne__ ------- <slot wrapper '__ne__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__gt__ ------- <slot wrapper '__gt__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__ge__ ------- <slot wrapper '__ge__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__init__ ------- <slot wrapper '__init__' of 'object' objects> as --> <class 'wrapper_descriptor'>
+__reduce_ex__ ------- <method '__reduce_ex__' of 'object' objects> as --> <class 'method_descriptor'>
+__reduce__ ------- <method '__reduce__' of 'object' objects> as --> <class 'method_descriptor'>
+__subclasshook__ ------- <method '__subclasshook__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__init_subclass__ ------- <method '__init_subclass__' of 'object' objects> as --> <class 'classmethod_descriptor'>
+__format__ ------- <method '__format__' of 'object' objects> as --> <class 'method_descriptor'>
+__sizeof__ ------- <method '__sizeof__' of 'object' objects> as --> <class 'method_descriptor'>
+__dir__ ------- <method '__dir__' of 'object' objects> as --> <class 'method_descriptor'>
+__class__ ------- <attribute '__class__' of 'object' objects> as --> <class 'getset_descriptor'>
+__doc__ ------- The base class of the class hierarchy.
+
+When called, it accepts no arguments and returns a new featureless
+instance that has no instance attributes and cannot be given any.
+ as --> <class 'str'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10811 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 30 as --> <class 'int'>
+second ------- 31 as --> <class 'int'>
+millisecond ------- 230 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.35312843322754 as --> <class 'float'>
+transmit_voltage ------- 36.264404296875 as --> <class 'float'>
+current ------- 1.9032118320465088 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00<\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10777 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 30 as --> <class 'int'>
+second ------- 33 as --> <class 'int'>
+millisecond ------- 250 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.345516204833984 as --> <class 'float'>
+transmit_voltage ------- 39.55224609375 as --> <class 'float'>
+current ------- 1.6916232109069824 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00=\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10634 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 30 as --> <class 'int'>
+second ------- 35 as --> <class 'int'>
+millisecond ------- 260 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.348052978515625 as --> <class 'float'>
+transmit_voltage ------- 40.53369140625 as --> <class 'float'>
+current ------- 1.3172743320465088 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00>\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10573 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 30 as --> <class 'int'>
+second ------- 37 as --> <class 'int'>
+millisecond ------- 280 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.375965118408203 as --> <class 'float'>
+transmit_voltage ------- 38.718017578125 as --> <class 'float'>
+current ------- 0.9266493320465088 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00?\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10425 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 30 as --> <class 'int'>
+second ------- 39 as --> <class 'int'>
+millisecond ------- 300 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.327754974365234 as --> <class 'float'>
+transmit_voltage ------- 37.834716796875 as --> <class 'float'>
+current ------- 2.8634982109069824 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10887 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 30 as --> <class 'int'>
+second ------- 41 as --> <class 'int'>
+millisecond ------- 320 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.37342643737793 as --> <class 'float'>
+transmit_voltage ------- 35.82275390625 as --> <class 'float'>
+current ------- 1.7567274570465088 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00A\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10289 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 30 as --> <class 'int'>
+second ------- 43 as --> <class 'int'>
+millisecond ------- 330 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.365814208984375 as --> <class 'float'>
+transmit_voltage ------- 36.264404296875 as --> <class 'float'>
+current ------- 2.049696207046509 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00B\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10809 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 30 as --> <class 'int'>
+second ------- 45 as --> <class 'int'>
+millisecond ------- 350 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.349321365356445 as --> <class 'float'>
+transmit_voltage ------- 35.62646484375 as --> <class 'float'>
+current ------- 1.5614149570465088 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00C\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 11030 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 30 as --> <class 'int'>
+second ------- 47 as --> <class 'int'>
+millisecond ------- 360 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.363277435302734 as --> <class 'float'>
+transmit_voltage ------- 38.17822265625 as --> <class 'float'>
+current ------- 1.4800347089767456 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00D\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10574 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 30 as --> <class 'int'>
+second ------- 49 as --> <class 'int'>
+millisecond ------- 380 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.365814208984375 as --> <class 'float'>
+transmit_voltage ------- 38.031005859375 as --> <class 'float'>
+current ------- 1.6427950859069824 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00E\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10466 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 30 as --> <class 'int'>
+second ------- 51 as --> <class 'int'>
+millisecond ------- 390 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.378501892089844 as --> <class 'float'>
+transmit_voltage ------- 37.8837890625 as --> <class 'float'>
+current ------- 1.3661024570465088 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00F\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10767 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 30 as --> <class 'int'>
+second ------- 53 as --> <class 'int'>
+millisecond ------- 420 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.35820198059082 as --> <class 'float'>
+transmit_voltage ------- 37.8837890625 as --> <class 'float'>
+current ------- 2.651909828186035 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00G\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 11005 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 30 as --> <class 'int'>
+second ------- 55 as --> <class 'int'>
+millisecond ------- 430 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.367084503173828 as --> <class 'float'>
+transmit_voltage ------- 37.245849609375 as --> <class 'float'>
+current ------- 1.6427950859069824 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00H\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10810 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 30 as --> <class 'int'>
+second ------- 57 as --> <class 'int'>
+millisecond ------- 450 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.334096908569336 as --> <class 'float'>
+transmit_voltage ------- 35.675537109375 as --> <class 'float'>
+current ------- 1.6916232109069824 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00I\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 11061 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 30 as --> <class 'int'>
+second ------- 59 as --> <class 'int'>
+millisecond ------- 470 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.349321365356445 as --> <class 'float'>
+transmit_voltage ------- 36.21533203125 as --> <class 'float'>
+current ------- 1.8706597089767456 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00J\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10951 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 1 as --> <class 'int'>
+millisecond ------- 490 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.37088966369629 as --> <class 'float'>
+transmit_voltage ------- 38.129150390625 as --> <class 'float'>
+current ------- 1.5614149570465088 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00K\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10802 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 3 as --> <class 'int'>
+millisecond ------- 500 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.36962127685547 as --> <class 'float'>
+transmit_voltage ------- 38.521728515625 as --> <class 'float'>
+current ------- 1.6916232109069824 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00L\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10850 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 5 as --> <class 'int'>
+millisecond ------- 530 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.35439682006836 as --> <class 'float'>
+transmit_voltage ------- 35.479248046875 as --> <class 'float'>
+current ------- 1.3498263359069824 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00M\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10452 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 7 as --> <class 'int'>
+millisecond ------- 540 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.362009048461914 as --> <class 'float'>
+transmit_voltage ------- 35.33203125 as --> <class 'float'>
+current ------- 2.603081703186035 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00N\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10523 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 9 as --> <class 'int'>
+millisecond ------- 560 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.362009048461914 as --> <class 'float'>
+transmit_voltage ------- 36.755126953125 as --> <class 'float'>
+current ------- 1.2847222089767456 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00O\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10639 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 11 as --> <class 'int'>
+millisecond ------- 580 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.33917236328125 as --> <class 'float'>
+transmit_voltage ------- 35.577392578125 as --> <class 'float'>
+current ------- 1.7078993320465088 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00P\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10724 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 13 as --> <class 'int'>
+millisecond ------- 590 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.35186004638672 as --> <class 'float'>
+transmit_voltage ------- 35.62646484375 as --> <class 'float'>
+current ------- 1.5451388359069824 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00Q\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10838 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 15 as --> <class 'int'>
+millisecond ------- 610 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.35186004638672 as --> <class 'float'>
+transmit_voltage ------- 38.47265625 as --> <class 'float'>
+current ------- 0.9754774570465088 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00R\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10530 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 17 as --> <class 'int'>
+millisecond ------- 630 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.34044075012207 as --> <class 'float'>
+transmit_voltage ------- 38.914306640625 as --> <class 'float'>
+current ------- 0.6336805820465088 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00S\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10711 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 19 as --> <class 'int'>
+millisecond ------- 640 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.35566520690918 as --> <class 'float'>
+transmit_voltage ------- 37.8837890625 as --> <class 'float'>
+current ------- 1.3661024570465088 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00T\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10520 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 21 as --> <class 'int'>
+millisecond ------- 650 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.365814208984375 as --> <class 'float'>
+transmit_voltage ------- 38.816162109375 as --> <class 'float'>
+current ------- 2.196180582046509 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00U\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 11160 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 23 as --> <class 'int'>
+millisecond ------- 670 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.36835289001465 as --> <class 'float'>
+transmit_voltage ------- 37.245849609375 as --> <class 'float'>
+current ------- 1.7241753339767456 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00V\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10578 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 25 as --> <class 'int'>
+millisecond ------- 690 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.345516204833984 as --> <class 'float'>
+transmit_voltage ------- 34.792236328125 as --> <class 'float'>
+current ------- 2.114800453186035 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00W\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 11000 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 27 as --> <class 'int'>
+millisecond ------- 710 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.374696731567383 as --> <class 'float'>
+transmit_voltage ------- 35.62646484375 as --> <class 'float'>
+current ------- 1.5288628339767456 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00X\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10520 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 29 as --> <class 'int'>
+millisecond ------- 740 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.36835289001465 as --> <class 'float'>
+transmit_voltage ------- 39.306884765625 as --> <class 'float'>
+current ------- 1.2033419609069824 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00Y\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10794 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 31 as --> <class 'int'>
+millisecond ------- 750 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.345516204833984 as --> <class 'float'>
+transmit_voltage ------- 39.306884765625 as --> <class 'float'>
+current ------- 1.3172743320465088 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00Z\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10469 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 33 as --> <class 'int'>
+millisecond ------- 780 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.378501892089844 as --> <class 'float'>
+transmit_voltage ------- 37.98193359375 as --> <class 'float'>
+current ------- 1.3498263359069824 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10508 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 35 as --> <class 'int'>
+millisecond ------- 800 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.362009048461914 as --> <class 'float'>
+transmit_voltage ------- 38.718017578125 as --> <class 'float'>
+current ------- 2.196180582046509 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\\\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10544 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 37 as --> <class 'int'>
+millisecond ------- 800 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.37342643737793 as --> <class 'float'>
+transmit_voltage ------- 35.773681640625 as --> <class 'float'>
+current ------- 1.8381075859069824 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00]\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10470 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 39 as --> <class 'int'>
+millisecond ------- 820 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.345516204833984 as --> <class 'float'>
+transmit_voltage ------- 36.264404296875 as --> <class 'float'>
+current ------- 2.0822482109069824 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00^\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10941 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 41 as --> <class 'int'>
+millisecond ------- 850 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.367084503173828 as --> <class 'float'>
+transmit_voltage ------- 34.939453125 as --> <class 'float'>
+current ------- 1.9520399570465088 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00_\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10982 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 43 as --> <class 'int'>
+millisecond ------- 870 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.363277435302734 as --> <class 'float'>
+transmit_voltage ------- 39.208740234375 as --> <class 'float'>
+current ------- 1.3009982109069824 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00`\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
+
+size ------- 105 as --> <class 'int'>
+is_valid ------- True as --> <class 'bool'>
+_checksum ------- 10844 as --> <class 'int'>
+count ------- 0 as --> <class 'int'>
+struct_id ------- 170 as --> <class 'int'>
+version ------- 17 as --> <class 'int'>
+system_type ------- 76 as --> <class 'int'>
+system_subtype ------- 0 as --> <class 'int'>
+fw_major_version ------- 1 as --> <class 'int'>
+fw_minor_version ------- 0 as --> <class 'int'>
+fw_patch_version ------- 0 as --> <class 'int'>
+fw_build_version ------- 46 as --> <class 'int'>
+year ------- 2022 as --> <class 'int'>
+month ------- 2 as --> <class 'int'>
+day ------- 15 as --> <class 'int'>
+hour ------- 13 as --> <class 'int'>
+minute ------- 31 as --> <class 'int'>
+second ------- 45 as --> <class 'int'>
+millisecond ------- 890 as --> <class 'int'>
+coordinate_system ------- 1 as --> <class 'int'>
+vel_x ------- nan as --> <class 'float'>
+vel_y ------- nan as --> <class 'float'>
+vel_z ------- nan as --> <class 'float'>
+vel_err ------- nan as --> <class 'float'>
+range_beam1 ------- nan as --> <class 'float'>
+range_beam2 ------- nan as --> <class 'float'>
+range_beam3 ------- nan as --> <class 'float'>
+range_beam4 ------- nan as --> <class 'float'>
+mean_range ------- nan as --> <class 'float'>
+speed_of_sound ------- 1500.0 as --> <class 'float'>
+status ------- 255 as --> <class 'int'>
+bit_count ------- 1 as --> <class 'int'>
+bit_code ------- 236 as --> <class 'int'>
+voltage ------- 22.35186004638672 as --> <class 'float'>
+transmit_voltage ------- 35.1357421875 as --> <class 'float'>
+current ------- 1.5288628339767456 as --> <class 'float'>
+serial_number ------- 001010 as --> <class 'str'>
+reserved ------- b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00a\x00\x00\x00\x00\x00\x00\x00' as --> <class 'bytes'>
+
