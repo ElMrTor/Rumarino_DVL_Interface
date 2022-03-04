@@ -2,3 +2,7 @@
 /**/devel
 /**/build
 /**/.vscode
+__pycache__/
+devel/
+build/
+.vscode/
