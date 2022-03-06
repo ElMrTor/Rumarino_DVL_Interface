@@ -7,7 +7,7 @@ class DVL_DATA:
                 coordinate_system=None, vel_x=None, vel_y=None, vel_z=None, vel_err=None,
                 range_beam1=None, range_beam2=None, range_beam3=None, range_beam4=None,
                 mean_range=None, speed_of_sound=None, status=None, bit_count=None,
-                bit_code=None, voltage=None, transit_voltage=None, current=None,
+                bit_code=None, voltage=None, transmit_voltage=None, current=None,
                 serial_number=None) -> None:
         self.coordinates: list = coordinates
         self.is_valid: bool = is_valid
@@ -41,12 +41,11 @@ class DVL_DATA:
         self.bit_count: int = bit_count
         self.bit_code: int = bit_code
         self.voltage: float = voltage
-        self.transit_voltage: float = transit_voltage
+        self.transmit_voltage: float = transmit_voltage
         self.current: float = current
         self.serial_number: str = serial_number
 
 if __name__=='__main__':    
-    d = DVL_DATA()
-    print(vars(d))
+    pass
     
 

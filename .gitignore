@@ -3,5 +3,4 @@ __pycache__/
 devel/
 build/
 .vscode/
-**/server_env/
-/**/server_env
+server_env/

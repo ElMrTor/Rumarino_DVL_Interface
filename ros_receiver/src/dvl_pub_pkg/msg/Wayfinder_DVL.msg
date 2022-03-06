@@ -1,13 +1,13 @@
 bool is_valid
 int64 count
 int64 struct_id
-string version
+int64 version
 int64 system_type
 int64 system_subtype
 int64 fw_major_version
 int64 fw_minor_version
 int64 fw_patch_version
-string fw_build_version
+int64 fw_build_version
 int64 year
 int64 month
 int64 day
@@ -31,4 +31,4 @@ int64 bit_code
 float64 voltage
 float64 transit_voltage
 float64 current
-std_msgs/string serial_number
+std_msgs/String serial_number
