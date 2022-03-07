@@ -1,3 +1,4 @@
+std_msgs/Header header
 bool is_valid
 int64 count
 int64 struct_id

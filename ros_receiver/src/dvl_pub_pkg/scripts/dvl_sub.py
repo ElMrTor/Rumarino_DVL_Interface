@@ -1,8 +1,12 @@
 #!/usr/bin/env python
-
+from time import sleep
+from std_msgs.msg import Header
 from dvl_pub_pkg.msg import Wayfinder_DVL
-from rospy import Publisher, Rate, init_node, is_shutdown
+from rospy import Publisher, Rate, init_node, is_shutdown, Time
 from requests import get
+from requests.exceptions import ConnectionError
+
+DEFAULT_WAIT_TIME_FOR_RETRY = 3
 
 
 class DVLNodePublisher:
@@ -17,7 +21,8 @@ class DVLNodePublisher:
         self.rate = Rate(rate)
 
     def publish_dvl_message(self):
-        if self._request_dvl_data():
+        if self._request_dvl_data():            
+            self.dvl_msg_data.header = self._get_msg_header()
             self.pub.publish(self.dvl_msg_data)        
         self.rate.sleep()
 
@@ -31,17 +36,19 @@ class DVLNodePublisher:
             return False
             
     
-    def _populate_dvl_msg_data(self, data_from_request):
-        # print data_from_request
-        # print self.dvl_msg_data
+    def _populate_dvl_msg_data(self, data_from_request):        
         for key, val in data_from_request.items(): 
-            if key in dir(self.dvl_msg_data):            
-                # attr = getattr(self.dvl_msg_data, key)
+            if key in dir(self.dvl_msg_data):                            
                 if isinstance(val, unicode):
                     msg_attr = getattr(self.dvl_msg_data, key)
                     msg_attr.data = val.encode('utf-8')                        
                 else:          
                     setattr(self.dvl_msg_data, key, val)
+
+    def _get_msg_header(self):
+        msg_header = Header()
+        msg_header.stamp = Time.now()
+        return msg_header
         
             
 
@@ -49,7 +56,11 @@ class DVLNodePublisher:
 if __name__=='__main__':
     dvl_pub = DVLNodePublisher('dvl', 'Wayfinder_DVL_Filter')
     while not is_shutdown():
-        dvl_pub.publish_dvl_message()
+        try:
+            dvl_pub.publish_dvl_message()
+        except ConnectionError:
+            print 'Could not reach http server, retrying in %ss...' % DEFAULT_WAIT_TIME_FOR_RETRY
+            sleep(DEFAULT_WAIT_TIME_FOR_RETRY)
         
 
 
