@@ -19,6 +19,7 @@ int64 coordinate_system
 float64 vel_x
 float64 vel_y
 float64 vel_z
+geometry_msgs/Vector3 position
 float64 vel_error
 float64 range_beam1
 float64 range_beam2

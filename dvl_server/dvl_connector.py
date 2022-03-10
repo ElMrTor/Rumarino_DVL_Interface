@@ -3,6 +3,8 @@ from dvl_data import DVL_DATA
 from datetime import datetime
 from math import nan, isnan
 
+DEFAULT_LINUX_SERIAL_PORT = '/dev/tty'
+DEFAULT_DVL_PORT = 115200
 
 def _check_for_nan(data: DVL_DATA):
     '''NaN values give errors in json format, therefore are converted to -1.0'''
@@ -12,7 +14,10 @@ def _check_for_nan(data: DVL_DATA):
     return vars(data)
 
 
-class DVLDevice:       
+class DVLDevice:
+
+    def connect(self):
+        raise NotImplementedError
 
     def get_data(self):
         return {'DVL_Data' : _check_for_nan(self.get_dvl_data())}
@@ -22,14 +27,43 @@ class DVLDevice:
 
 
 class WayfinderDVL(DVLDevice):
-    pass
+    
+    def __init__(self):
+        # Find a way to tell the dvl to stop/start and exit/close/release resources
+        pass
+
+    def connect(self):
+        pass
+
+    def start_logging(self):
+        # Collect data - make sure working folder exists
+        # print("Data logged to {0}".format(DVL.get_log_file_name()))
+        # print("Failed to open {0} - make sure it is not used by any other program".format(PORT))
+        pass
+
+    def _register_callback_function(self):
+        pass
+
+    def _unregister_callback_function(self):
+        pass
+
+    def exit_command_mode(self):
+        pass
+
+    def set_software_trigger(self):
+        pass
+
+
+
 
 class DVLDummyDevice(DVLDevice):
 
     def __init__(self) -> None:
         self.rand = Random()        
         self.dvl_data = DVL_DATA()
-        
+
+    def connect(self):
+        return True        
 
     def get_dummy_data(self):
         self.prepare_random_data()

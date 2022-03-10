@@ -10,6 +10,7 @@ project(dvl_pub_pkg)
 find_package(catkin REQUIRED COMPONENTS
   rospy
   std_msgs
+  geometry_msgs
   message_generation
 )
 
@@ -70,6 +71,7 @@ add_message_files(
 generate_messages(
   DEPENDENCIES
   std_msgs
+  geometry_msgs
 )
 
 ################################################
